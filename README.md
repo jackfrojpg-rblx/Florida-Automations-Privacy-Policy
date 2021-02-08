@@ -1,1 +1,2 @@
-# Florida-Automations-Privacy-Policy
+# State of Florida Automations Privacy Policy
+Florida Automations collects data that you provide in when executing a command, such as Roblox usernames and rank ids to send to the [noblox](https://www.npmjs.com/package/noblox.js) API. We use this data to complete requests [for example rank users, send a group shout, etc]. If you have any questions or concerns, you can contact the developer: Goose#9401.
